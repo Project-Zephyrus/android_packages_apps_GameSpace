@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.power.hub.preference;
+package org.proton.support.preference;
 
 import android.content.Context;
 import android.provider.Settings;
@@ -22,7 +22,7 @@ import android.util.AttributeSet;
 
 import com.android.settingslib.widget.MainSwitchPreference;
 
-import com.power.hub.preference.SystemSettingsStore;
+import org.proton.support.preference.SystemSettingsStore;
 
 public class SystemSettingMainSwitchPreference extends MainSwitchPreference {
 

@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.power.hub.preference;
+package org.proton.support.preference;
 
 import android.content.ContentResolver;
 import android.preference.PreferenceDataStore;
